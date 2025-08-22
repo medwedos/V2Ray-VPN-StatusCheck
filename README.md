@@ -6,7 +6,7 @@ The program runs in autostart mode by default.
 
 1- Monitors the successful creation of a VPN (Virtual Network Card), because sometimes when you enable VPN, the virtual network card is created with errors or not created at all.
 
-2 - Notifies you of connection interruptions.
+2- Notifies you of connection interruptions.
 
 3- Notifies you of the current VPN status (enabled or disabled).
 
